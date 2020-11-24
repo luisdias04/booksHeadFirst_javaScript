@@ -1,2 +1,1 @@
-# booksHeadFirst-
- All developers books that I read_javaScript
+ All developers books that I read. Java Script
